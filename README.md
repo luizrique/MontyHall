@@ -1,24 +1,20 @@
-# montyhall
+<h1 align="center">
+🚀Problema de MontyHall.
+</h1>
 
-## Project setup
-```
-npm install
-```
+# ✔ Indice
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Sobre
+- Tecnologia
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+# 📄Sobre.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## O paradoxo de Monty Hall considera que existem três portas, atrás de uma existe um prêmio e, atrás das outras duas não existe nada. Na primeira etapa uma pessoa escolhe uma porta (esta ainda não é aberta), após isso uma outra porta (que não foi a escolhida) é aberta e é revelado que não contém nada.
+
+---
+
+# 💻 Tecnologia
+
+- [Vue.js](https://vuejs.org/v2/guide/)
