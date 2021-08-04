@@ -18,3 +18,5 @@
 # 💻 Tecnologia
 
 - [Vue.js](https://vuejs.org/v2/guide/)
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
